@@ -3,6 +3,11 @@
   "name": "Kid Player",
   "short_name": "Kid Player",
   "description": "A simple offline audio/podcast player",
+  "categories": [
+    "music",
+    "audio",
+    "entertainment"
+  ],
   "start_url": "/Kid-Player/",
   "scope": "/Kid-Player/",
   "display": "standalone",
